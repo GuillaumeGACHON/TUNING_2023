@@ -6,3 +6,4 @@ Files Description :
 - **Metrics.nc**, **TimeSeries.nc** and **Seasonal.nc** are the netcdf files containing the metrics, timeseries, and seasonal cycles used in the app.
 - **Params_TUN.nc** is the netcdf file containing the parameter values of your simulation ensemble, as well as the metric values of the associated AMIP experiments.
 - **dico_ds_to_sc.py** and **ds_to_sc.py** are files required to properly link the metrics to their respective seasonal cycles.
+- The **assets** folder contains files used to custom the dash app’s default appearance.
