@@ -5,4 +5,4 @@ echo " Welcome to the MeVisTo Launcher. Let’s check if you have the Climatos f
 bash Climato_Checker.sh
 
 echo " All done. Launching the App now."
-python metrics_app_V2.6.py
+python metrics_app_V2.7.py
