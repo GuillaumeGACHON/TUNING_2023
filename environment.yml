@@ -93,7 +93,6 @@ dependencies:
       - dash-table==5.0.0
       - idna==3.4
       - importlib-metadata==6.8.0
-      - kapteyn==3.4
       - nest-asyncio==1.5.8
       - plotly==5.17.0
       - requests==2.31.0
