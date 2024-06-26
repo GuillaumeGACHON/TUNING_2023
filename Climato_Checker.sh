@@ -51,7 +51,7 @@ if [[ -f "Climatos_OCE_Diaptr_W_VLR.nc" ]]; then
     echo "Climatos_OCE_Diaptr_W_VLR.nc found"
 else
     echo "Downloading Climatos_OCE_Diaptr_W_VLR.nc"
-    curl -o Climatos_OCE_Diaptr_W_VLR.nc "https://thredds-su.ipsl.fr/thredds/fileServer/tgcc_thredds/work/gachongu/Tuning_2023/Climatos_OCE_Diaptr_W_VLR.nc"i
+    curl -o Climatos_OCE_Diaptr_W_VLR.nc "https://thredds-su.ipsl.fr/thredds/fileServer/tgcc_thredds/work/gachongu/Tuning_2023/Climatos_OCE_Diaptr_W_VLR.nc"
 fi
 
 if [[ -f "Climatos_OCE_Grid_T_DepthLv_LR.nc" ]]; then
